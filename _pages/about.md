@@ -26,7 +26,8 @@ I'm a third year Ph.D. student in the [Department of Statistics and Data Science
 at Cornell University. I am very fortunate to be advised 
 by [Prof. Yang Ning](https://yangning.stat.cornell.edu).  
 
-Prior to Cornell, I received M.A. in Statistics in 2020 from Yale University and 
+Prior to Cornell, I received M.A. in Statistics in 2020 from Yale 
+University and 
  Bachelor’s degree in Statistics in 2019 from University of Science and Technology 
  of China (USTC).
 
