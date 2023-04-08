@@ -25,14 +25,14 @@ nav_order: 1
 &bull; <strong>Two-stage Hypothesis Tests for Variable 
 Interactions with FDR Control</strong> <br />
 <strong>Jingyi Duan</strong>, Yang Ning, Xi Chen, Yong Chen <br /> 
-Under review, 2022. <a href="https://arxiv.org/abs/2209.00077">[Arxiv]</a>  <br /> 
+<em>Submitted, 2022. </em> <a href="https://arxiv.org/abs/2209.00077">[Arxiv]</a>  <br /> 
 
 
 &bull; <strong>Test of Significance for High-dimensional Thresholds with Application 
 to Individualized Minimal Clinically Important Difference </strong> <br />
 Huijie Feng*, <strong>Jingyi Duan*</strong>, 
 Yang Ning, Jiwei Zhao <strong>(*: equal contribution)</strong> <br /> 
-<em>Journal of the American Statistical Association</em>, 2023+. 
+<em>Journal of the American Statistical Association, 2023+.</em>
 <a href="https://arxiv.org/abs/2108.04306">[Arxiv]</a>  <br /> 
 
 
